@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend & Mobile Engineer focused on building robust, scalable systems and tangible tech.<br><br>*   **Software:** Flutter | Python | Django | AWS | Kubernetes | Terraform<br>*   **Hardware:** IoT | Embedded Systems | Raspberry Pi | ESP8266 | 3D Printing<br>*   **Building:** Clean architecture, monorepos, and automated infrastructure.<br><br>*Always building something, digital or physical.*
+Backend & Mobile Engineer focused on building robust, scalable systems and tangible tech.<br><br>*   **Software:** Python | Django | FastAPI | Flutter | AWS | Linux | Docker | Design Patterns | Low level Design <br>*   **Hardware:** IoT | Embedded Systems | Raspberry Pi | ESP8266 | 3D Printing<br>*   **Building:** Clean architecture, monorepos, and automated infrastructure.<br><br>*Always building something, digital or physical.*
 
 
 ## 🌐 Socials:
